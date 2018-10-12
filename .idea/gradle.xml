@@ -8,9 +8,12 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/app-variants" />
+            <option value="$PROJECT_DIR$/app-variants/app" />
             <option value="$PROJECT_DIR$/generate-code" />
             <option value="$PROJECT_DIR$/generate-code/annotation" />
+            <option value="$PROJECT_DIR$/generate-code/annotation-processing" />
+            <option value="$PROJECT_DIR$/generate-code/invoker" />
             <option value="$PROJECT_DIR$/internal-base" />
             <option value="$PROJECT_DIR$/internal-base/mvps" />
           </set>

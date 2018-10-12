@@ -1,1 +1,2 @@
-include ':app', ':internal-base:mvps', ':generate-code:annotation'
+include ':app-variants:app', ':internal-base:mvps', ':generate-code:annotation',
+        ':generate-code:annotation-processing', ':generate-code:invoker'
